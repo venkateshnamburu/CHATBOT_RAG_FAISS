@@ -1,0 +1,28 @@
+langchain
+langchain-community
+langchain-text-splitters
+langchain-groq  
+langchain-huggingface
+langchain-chroma
+
+python-dotenv
+ipykernel
+pypdf
+beautifulsoup4  # Corrected 'bs4'
+arxiv
+pymupdf
+wikipedia-api  # Some systems need this instead of 'wikipedia'
+chromadb
+sentence-transformers
+faiss-cpu
+duckdb
+pandas
+duckduckgo-search
+mysql-connector-python
+SQLAlchemy
+validators==0.28.1
+youtube-transcript-api
+unstructured
+pytube
+numexpr
+faiss-cpu
